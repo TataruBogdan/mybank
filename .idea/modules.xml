@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mybank.iml" filepath="$PROJECT_DIR$/.idea/mybank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybank.iml" filepath="$PROJECT_DIR$/mybank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-clients-service/mybank-clients-service.iml" filepath="$PROJECT_DIR$/../mybank-clients-service/mybank-clients-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-current-accounts-service/mybank-current-accounts-service.iml" filepath="$PROJECT_DIR$/../mybank-current-accounts-service/mybank-current-accounts-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-deposits-service/mybank-deposits-service.iml" filepath="$PROJECT_DIR$/../mybank-deposits-service/mybank-deposits-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-loans-service/mybank-loans-service.iml" filepath="$PROJECT_DIR$/../mybank-loans-service/mybank-loans-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-taxes-service/mybank-taxes-service.iml" filepath="$PROJECT_DIR$/../mybank-taxes-service/mybank-taxes-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-transactions-service/mybank-transactions-service.iml" filepath="$PROJECT_DIR$/../mybank-transactions-service/mybank-transactions-service.iml" />
     </modules>
   </component>
 </project>
