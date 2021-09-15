@@ -2,20 +2,39 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybank-deposits-service" />
+        <module name="mybank-loans-service" />
+        <module name="mybank-transactions-service" />
+        <module name="mybank-taxes-service" />
+        <module name="mybank-current-accounts-service" />
         <module name="mybank-clients-service" />
+        <module name="mybank" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mybank" target="11" />
       <module name="mybank-clients-service" target="11" />
+      <module name="mybank-current-accounts-service" target="11" />
+      <module name="mybank-deposits-service" target="11" />
+      <module name="mybank-loans-service" target="11" />
+      <module name="mybank-taxes-service" target="11" />
+      <module name="mybank-transactions-service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mybank" options="-parameters" />
       <module name="mybank-clients-service" options="-parameters" />
+      <module name="mybank-current-accounts-service" options="-parameters" />
+      <module name="mybank-deposits-service" options="-parameters" />
+      <module name="mybank-loans-service" options="-parameters" />
+      <module name="mybank-taxes-service" options="-parameters" />
+      <module name="mybank-transactions-service" options="-parameters" />
     </option>
   </component>
 </project>

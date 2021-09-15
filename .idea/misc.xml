@@ -4,6 +4,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../mybank-clients-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-deposits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-loans-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-transactions-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-taxes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-current-accounts-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
