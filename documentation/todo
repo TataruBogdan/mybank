@@ -1,0 +1,15 @@
+1) reimplementezi tot in clients-service
+2)pe github creezi un nou repo mybank-commons
+3) faci checkout from VCS in Intelij dar intr o fereastra separata
+4) inchizi fereastra dupa ce l ai clonat, si intri dino nou in mybank proiectul masster
+si adaugi cu Import Modul -> mybank-commons
+
+IN FIECARE SEARA, DAI COMMIT SI PUSH IN GIT
+
+
+
+
+
+2. In current-accounts-service - se conecteaza
+    eroare - account_current_status
+            - status '_CLOSED' - DE MODIFICAT - EROARE EXTRAGERE DATA
