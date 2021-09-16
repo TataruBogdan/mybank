@@ -8,7 +8,7 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>bogdan.learning</groupId>
+	<groupId>com.mybank</groupId>
 	<artifactId>mybank</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mybank</name>
