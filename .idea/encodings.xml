@@ -3,6 +3,7 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
     <file url="file://$PROJECT_DIR$/../mybank-clients-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mybank-clients-service/src/main/java/mybank/clients/IndividualApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mybank-commons/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mybank-current-accounts-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mybank-deposits-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../mybank-loans-service/src/main/java" charset="UTF-8" />

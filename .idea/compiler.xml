@@ -10,6 +10,7 @@
         <module name="mybank-deposits-service" />
         <module name="mybank-loans-service" />
         <module name="mybank-transactions-service" />
+        <module name="mybank-commons" />
         <module name="mybank-taxes-service" />
         <module name="mybank-current-accounts-service" />
         <module name="mybank-clients-service" />
@@ -19,6 +20,7 @@
     <bytecodeTargetLevel>
       <module name="mybank" target="11" />
       <module name="mybank-clients-service" target="11" />
+      <module name="mybank-commons" target="11" />
       <module name="mybank-current-accounts-service" target="11" />
       <module name="mybank-deposits-service" target="11" />
       <module name="mybank-loans-service" target="11" />
@@ -30,6 +32,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="mybank" options="-parameters" />
       <module name="mybank-clients-service" options="-parameters" />
+      <module name="mybank-commons" options="-parameters" />
       <module name="mybank-current-accounts-service" options="-parameters" />
       <module name="mybank-deposits-service" options="-parameters" />
       <module name="mybank-loans-service" options="-parameters" />

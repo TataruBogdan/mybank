@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mybank.iml" filepath="$PROJECT_DIR$/mybank.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-clients-service/mybank-clients-service.iml" filepath="$PROJECT_DIR$/../mybank-clients-service/mybank-clients-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-commons/mybank-commons.iml" filepath="$PROJECT_DIR$/../mybank-commons/mybank-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-current-accounts-service/mybank-current-accounts-service.iml" filepath="$PROJECT_DIR$/../mybank-current-accounts-service/mybank-current-accounts-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-deposits-service/mybank-deposits-service.iml" filepath="$PROJECT_DIR$/../mybank-deposits-service/mybank-deposits-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-loans-service/mybank-loans-service.iml" filepath="$PROJECT_DIR$/../mybank-loans-service/mybank-loans-service.iml" />

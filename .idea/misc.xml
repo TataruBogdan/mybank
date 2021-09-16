@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/../mybank-taxes-service/pom.xml" />
         <option value="$PROJECT_DIR$/../mybank-current-accounts-service/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-commons/pom.xml" />
       </list>
     </option>
   </component>
