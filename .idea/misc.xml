@@ -11,7 +11,14 @@
         <option value="$PROJECT_DIR$/../mybank-current-accounts-service/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../mybank-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-scheduler/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybank-solver/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mybank-scheduler/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="adopt-openjdk-14" project-jdk-type="JavaSDK">

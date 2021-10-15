@@ -12,9 +12,9 @@
         <module name="mybank-transactions-service" />
         <module name="mybank-commons" />
         <module name="mybank-taxes-service" />
+        <module name="mybank-scheduler" />
         <module name="mybank-current-accounts-service" />
         <module name="mybank-clients-service" />
-        <module name="mybank" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +24,7 @@
       <module name="mybank-current-accounts-service" target="11" />
       <module name="mybank-deposits-service" target="11" />
       <module name="mybank-loans-service" target="11" />
+      <module name="mybank-scheduler" target="11" />
       <module name="mybank-taxes-service" target="11" />
       <module name="mybank-transactions-service" target="11" />
     </bytecodeTargetLevel>
@@ -36,6 +37,7 @@
       <module name="mybank-current-accounts-service" options="-parameters" />
       <module name="mybank-deposits-service" options="-parameters" />
       <module name="mybank-loans-service" options="-parameters" />
+      <module name="mybank-scheduler" options="-parameters" />
       <module name="mybank-taxes-service" options="-parameters" />
       <module name="mybank-transactions-service" options="-parameters" />
     </option>
