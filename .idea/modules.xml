@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/../mybank-current-accounts-service/mybank-current-accounts-service.iml" filepath="$PROJECT_DIR$/../mybank-current-accounts-service/mybank-current-accounts-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-deposits-service/mybank-deposits-service.iml" filepath="$PROJECT_DIR$/../mybank-deposits-service/mybank-deposits-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-loans-service/mybank-loans-service.iml" filepath="$PROJECT_DIR$/../mybank-loans-service/mybank-loans-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../mybank-solver/mybank-scheduler.iml" filepath="$PROJECT_DIR$/../mybank-solver/mybank-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybank-scheduler/mybank-scheduler.iml" filepath="$PROJECT_DIR$/../mybank-scheduler/mybank-scheduler.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-taxes-service/mybank-taxes-service.iml" filepath="$PROJECT_DIR$/../mybank-taxes-service/mybank-taxes-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybank-transactions-service/mybank-transactions-service.iml" filepath="$PROJECT_DIR$/../mybank-transactions-service/mybank-transactions-service.iml" />
     </modules>
