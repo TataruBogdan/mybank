@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS account_current;
 
 CREATE TABLE account_current(
     iban text PRIMARY KEY,
-    account_type account_type,
+    account_type text,
 	balance NUMERIC(10,2) NOT NULL DEFAULT 0,
 	individual_id int,
 	start_date date,
@@ -15,6 +15,18 @@ CREATE TABLE account_current(
 	FOREIGN KEY(individual_id) REFERENCES individual(id)
 );
 
+
+CREATE TABLE account_current(
+    iban text PRIMARY KEY,
+    account_type text,
+	balance NUMERIC(10,2) NOT NULL DEFAULT 0,
+	individual_id int,
+	start_date date,
+	status text,
+	primary_account boolean,
+	FOREIGN key(account_type) REFERENCES transactions(account_type),
+	FOREIGN KEY(individual_id) REFERENCES individual(id)
+);
 
 
 
