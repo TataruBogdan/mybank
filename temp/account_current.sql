@@ -24,7 +24,6 @@ CREATE TABLE account_current(
 	start_date date,
 	status text,
 	primary_account boolean,
-	FOREIGN key(account_type) REFERENCES transactions(account_type),
 	FOREIGN KEY(individual_id) REFERENCES individual(id)
 );
 
